@@ -4,7 +4,7 @@
     #include <WProgram.h>
 #endif
 
-#include <Servo.h>
+#include "Servo.h"
 
 #include "ros.h"
 #include "ros/time.h"
